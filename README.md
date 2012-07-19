@@ -4,4 +4,4 @@
 	박아윤
 	최길우
 ## What we do?
-	make open source facebook for enterprise clone 
+	make open source facebook for enterprise clone by Django
