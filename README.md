@@ -10,7 +10,7 @@
 	3. Python을 어떻게 잘 끌어다 쓸 것인지 멘토님에게 배움
 	
 
-# WHAT DO WE FEEL :
+# WHAT DO WE FEEL : (Anything)
 	1. 배권한 멘토 - 
 	2. 김신협 멘티 - 
 	3. 박아윤 멘티 -
@@ -18,15 +18,16 @@
 	
 
 
-## 2차 멘토링
+## 2차 멘토링(?. JUL, 2012 - SW Maestro 연수센터)
 # TODO :
 	1. PHP Parsing
 	2. Python - The Hard Way 16 ~ / 김신협, 최길우, 박아윤 나누어서 발표하기)
 
 # WE DID :
-	1. 
+	1. The Hard Way 각자 발표
+	2. 앞으로 나아가야 할 방향과 다른 멘티와 멘토를 잘 알아 두라는 멘토님의 당부
 
-# WHAT DO WE FEEL :
+# WHAT DO WE FEEL : (Anything)
 	1. 배권한 멘토 - 
 	2. 김신협 멘티 - 
 	3. 박아윤 멘티 -
@@ -45,7 +46,7 @@
 	(바보는 자신이 현명한 사람이 되려고 하지만, 현명한 사람은 자신이 바보가 되고자 한다.)
 	(Tarot Card의 The Fool Card에서 영감을 받음. 0번으로써 새롭게 시작하는 여정을 뜻 한다.)
 
-# WHAT DO WE FEEL :
+# WHAT DO WE FEEL : (Anything)
 	1. 배권한 멘토 - 장소 선정에 아쉬움이 있었다.
 	2. 김신협 멘티 - 아윤 멘티님이 조금 더 말을 했으면 좋겠다.
 	3. 박아윤 멘티 -
