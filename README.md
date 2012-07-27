@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
@@ -40,3 +41,16 @@ The master and gh-pages branch do not share the same ancestry. Please treat them
 ## License
 
 [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+=======
+# A Fool Team From SW Maestro 3rd
+## Member
+	배권한
+	김신협
+	박아윤
+	최길우
+## Mentor
+    배권한 aka darjeeling
+    
+## What we do?
+	make open source facebook for enterprise clone using Django
+>>>>>>> 23a863670b5a9efc71f622c7131b267268554626
