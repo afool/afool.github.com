@@ -29,7 +29,7 @@ This repository tracks 2 projects:
   For Big Features or major API extensions/edits:   
   This is the one case where I'll accept pull-requests based off the master branch.
   This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
-  Translation : it might take a bit longer so please be patient! (but sincerely thank you).
+  Translation : it might take a bit longer so please be patient! (but sincerely thank you)
  
 - **Jekyll-Bootstrap Documentation Website.**    
   The documentation website at <http://jekyllbootstrap.com> is maintained in the gh-pages branch.
@@ -41,16 +41,3 @@ The master and gh-pages branch do not share the same ancestry. Please treat them
 ## License
 
 [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)
-=======
-# A Fool Team From SW Maestro 3rd
-## Member
-	배권한
-	김신협
-	박아윤
-	최길우
-## Mentor
-    배권한 aka darjeeling
-    
-## What we do?
-	make open source facebook for enterprise clone using Django
->>>>>>> 23a863670b5a9efc71f622c7131b267268554626
