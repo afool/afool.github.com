@@ -26,7 +26,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.com
+production_url : http://afool.github.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -71,17 +71,17 @@ JB :
   # Some JB helpers refer to these paths; change theme here if needed.
   #
   archive_path: /history.html
-  categories_path : /categories.html
-  tags_path : /tags.html
+  # categories_path : /categories.html
+  # tags_path : /tags.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider :
     disqus :
-      short_name : jekyllbootstrap
+      short_name : afool
     livefyre :
       site_id : 123
     intensedebate :
