@@ -20,9 +20,12 @@ Inspired by a fool statue in Stratford-upon-avon, U.K.
 
 
 ## Members
-	Kwonhan, Bae (Mentor, SK Planet)
-	Sinhyub, Kim (Mentee, Hong-Ik Univ.)
-	AYun, Park (Mentee, Sun-Rin High School)
-	Gilwoo, CHOI (Mentee, Soong-Sil Univ.)
 
-Go to our repository [AFOOL](https://github.com/afool)
+####[Kwonhan, Bae](https://github.com/darjeeling) (Mentor, SK Planet)
+####[Sinhyub, Kim](https://github.com/Sinhyub)    (Mentee, Hong-Ik Univ.)
+####[AYun, Park](https://github.com/AcurosJr)     (Mentee, Sun-Rin High School)
+####[Gilwoo, CHOI](https://github.com/AstinCHOI)  (Mentee, Soong-Sil Univ.)
+
+---
+
+#### Go to our repository [AFOOL](https://github.com/afool)
