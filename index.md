@@ -7,17 +7,19 @@ tagline: Software Maestro 3th
 
 ## We are going to
 
-	Make a short-term project which is Facebook clone based open source for Enterprise by Sep. 2012 
+  Make a short-term project which is Facebook clone based open source for Enterprise by Sep. 2012 
 
+---
 
 ## What means AFOOL?
+<center>
+<img src="/assets/images/afool_image.png"/><br>
+<img src="/assets/images/afool_string.png"/><br>
+Inspired by a Fool Statue taken in Stratford-Upon-Avon, U.K.</center>
+<br>
+Also means Major Arcana(0. The Fool card) in Tarot, Initial journey.
 
-	1. The Fool Doth Think He Is Wise, But The Wise Man Knows Himself To Be A Fool.
-
-	2. The Fool of Tarot Card(Major Arcana : 0)
-
-Inspired by a fool statue in Stratford-upon-avon, U.K.
-
+---
 
 ## Members
 
