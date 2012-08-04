@@ -25,7 +25,7 @@ Also means Major Arcana(0. The Fool card) in Tarot, Initial journey.
 
 ####[Kwonhan, Bae](https://github.com/darjeeling) (Mentor, SK Planet)
 ####[Sinhyub, Kim](https://github.com/Sinhyub)    (Mentee, Hong-Ik Univ.)
-####[AYun, Park](https://github.com/AcurosJr)     (Mentee, Sun-Rin High School)
+####[AYun, Park](https://github.com/AcurosJr)     (Mentee, Sunrin Internet High School)
 ####[Gilwoo, CHOI](https://github.com/AstinCHOI)  (Mentee, Soong-Sil Univ.)
 
 ---
