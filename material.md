@@ -10,6 +10,7 @@ group: navigation
 
 ***
 ### Kim's
+1. [about PIVOTAL TRACKER](http://www.slideshare.net/AshyGrey/pivotal-tracker-13874440)
 
 ***
 ### Park's
