@@ -11,6 +11,7 @@ group: navigation
 ***
 ### Kim's
 1. [about PIVOTAL TRACKER](http://www.slideshare.net/AshyGrey/pivotal-tracker-13874440)
+2. [프로젝트 활동비 사용방법 및 제출�](https://www.pivotaltracker.com/projects/607025#!/stories/33915633)
 
 ***
 ### Park's
