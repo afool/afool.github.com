@@ -12,6 +12,7 @@ group: navigation
 ### Kim's
 1. [about PIVOTAL TRACKER](http://www.slideshare.net/AshyGrey/pivotal-tracker-13874440)
 2. [프로젝트 활동비 사용방법, How to use PROJECT MONEY](https://www.pivotaltracker.com/projects/607025#!/stories/33915633)
+3. [about MEMCACHED](http://www.slideshare.net/AshyGrey/about-memcached-13950629)
 
 ***
 ### Park's
