@@ -16,6 +16,7 @@ group: navigation
 
 ***
 ### Park's
+1. [about Redis](http://www.slideshare.net/ssuser943ebc/redis-13950217)
 
 ***
 ### Choi's
