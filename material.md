@@ -17,6 +17,7 @@ group: navigation
 ***
 ### Park's
 1. [about Redis](http://www.slideshare.net/ssuser943ebc/redis-13950217)
+2. [about Django Debug Toolbar](http://www.slideshare.net/ssuser943ebc/django-debug-toolbar)
 
 ***
 ### Choi's
